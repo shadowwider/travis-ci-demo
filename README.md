@@ -13,7 +13,7 @@ With a file called `.travis.yml`, you can trigger automated builds with every ch
 1. Put a file called `.travis.yml`, which tells Travis CI what to do, in the root of your repository.
 
 1. Edit the empty `NewUser.txt` file by adding your name to the empty file. Add the file to git, commit and push, to trigger a Travis CI build.
-
+去
 ```bash
 $ git add -A
 $ git commit -m 'Testing Travis CI'
